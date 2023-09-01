@@ -20,7 +20,7 @@
 }
 
 .writing {
-    padding-left: 2rem;
+    padding-left: 3rem;
     font-family: 'Montserrat', sans-serif;
 }
 .parfume {
@@ -42,5 +42,10 @@ font-weight: 600;
 }
 
 .btn {
+    border-radius: 4px;
+    padding: 0.5rem 4rem;
+    margin-bottom: 0.5rem;
+    background: #427d66;
+    color: white;
 }
 
