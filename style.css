@@ -8,15 +8,17 @@
       }
 .main {
     display: flex;
-    border:solid red 2px;
     width:30rem;
     height: 30rem;
+    margin-left:16rem;
+    margin-top: 16rem;
    
 
 }
 
 .part2 {
-    border: solid green ;
+    background:white;
+   
 }
 
 .writing {
@@ -28,7 +30,7 @@
     color:  gray;
 }
 .num {
-    font-family: 'Fraunces', serif;
+font-family: 'Fraunces', serif;
 color: green;
 font-size: 1.3rem;
 font-weight: 600;
