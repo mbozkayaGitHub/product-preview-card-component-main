@@ -24,6 +24,9 @@
 .writing {
     padding-left: 3rem;
     font-family: 'Montserrat', sans-serif;
+    border: 2px solid blue;
+    
+
 }
 .parfume {
     letter-spacing: 0.3rem;
@@ -51,3 +54,7 @@ font-weight: 600;
     color: white;
 }
 
+
+.img {
+    border-radius: 10px;
+}
